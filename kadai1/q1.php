@@ -22,6 +22,7 @@ if ($var > 10) {
 
 問題 3（初級）:
 変数 num が奇数か偶数かを判定する PHP プログラムを作成してください。
+<<<<<<< HEAD
 
 <?php
 function is_evenodd($a)
@@ -57,3 +58,5 @@ if (num > 0 && num < 100){
 ?>
 問題 6（中級）:
 変数 num が 0 または正の偶数である場合、「num is non-negative and even」を表示する PHP プログラムを作成してください。
+
+<?php
