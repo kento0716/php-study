@@ -5,4 +5,3 @@ for($val=0; $val<50; $val=$val+2){
 }
     
 ?>
-
